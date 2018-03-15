@@ -11,7 +11,7 @@ This topic explains the new and updated features that have been introduced in ve
 ## Feature description
 The Windows PowerShell ISE is a host application that enables you to write, run, and test scripts and modules in a graphical and intuitive environment. Key features such as syntax-coloring, tab completion, visual debugging, Unicode compliance, and context-sensitive Help provide a rich scripting experience.
 
-For an overview of Windows PowerShell ISE, see [Windows PowerShell Integrated Scripting Environment overview](https://technet.microsoft.com/en-us/library/3c1892c2-bf84-4cb6-af26-1f453be9e671).
+For an overview of Windows PowerShell ISE, see [Windows PowerShell Integrated Scripting Environment overview](https://technet.microsoft.com/library/3c1892c2-bf84-4cb6-af26-1f453be9e671).
 
 ## New and changed functionality in Windows PowerShell ISE
 The following table lists the new and changed features for this release of Windows PowerShell ISE in Windows PowerShell.
@@ -218,7 +218,7 @@ Show-Command is new Windows PowerShell ISE 3.0.
 ## See also
 For more information about using Windows PowerShell ISE in Windows PowerShell, see the following links.
 
-- [Using the Windows PowerShell Integrated Scripting Environment](../core-powershell/ise/Using-the-Windows-PowerShell-ISE.md)
+- [Exploring the Windows PowerShell Integrated Scripting Environment](../getting-started/fundamental/exploring-the-windows-powershell-ise.md)
 - [ISE on the TechNet Wiki](http://social.technet.microsoft.com/wiki/search/searchresults.aspx?q=ISE)
 - [Script Center](http://technet.microsoft.com/scriptcenter/default)
 
