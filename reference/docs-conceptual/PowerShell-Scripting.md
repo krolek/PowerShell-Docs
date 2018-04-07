@@ -34,7 +34,7 @@ After discovering which cmdlet accomplishes a task, you can learn more about the
 ```
 Get-Help Get-Service
 ```
-Most cmdlets emit objects which can be manipulated and then rendered into text for display. To fully understand the output of that cmdlet, pipe its output to the Get-Member cmdlet. For example, the following command displays information about the members of the object output by the Get-Service cmdlet.
+Most cmdlets emit objects which can be manipulated and then rendered into text for display. To fully understand the output of that cmdlet, pipe its output to the Get-Member cmdlet. For example, the following command displays information about the members of the object that are output by the Get-Service cmdlet.
 
 ```
 Get-Service | Get-Member
